@@ -1,0 +1,26 @@
+{
+  "name": "library",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jobara/library",
+  "authors": [
+    "Justin Obara <obara.justin@gmail.com>"
+  ],
+  "description": "A webapp for displaying a library of items (e.g. books).",
+  "keywords": [
+    "library",
+    "collection"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": "~1.5.1"
+  }
+}
