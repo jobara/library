@@ -21,10 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "ember": "~1.5.1",
-    "ember-data": "~0.0.14"
-  },
-  "resolutions": {
-    "ember": "~1.5.1"
+    "emberfire": "~1.0.9"
   }
 }
